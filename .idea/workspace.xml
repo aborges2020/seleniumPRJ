@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45dc8a2f-98ae-4b97-9eff-ff1d65615597" name="Default Changelist" comment="first version.">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seleniumPRJ.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/session_2/jenkins_demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/session_2/jenkins_demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/seleniumPRJ-1.0-SNAPSHOT.jar" afterDir="false" />
+    <list default="true" id="45dc8a2f-98ae-4b97-9eff-ff1d65615597" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGBatch.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +24,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\aborges-srv-01\IdeaProjects\seleniumPRJ\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -47,15 +42,62 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1WM4n14i95RhdXlhpc67QnYRrj4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="TestNG.jenkins_demo.publicvoidtestgooglrsearch">
+    <configuration name="jenkins_demo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumPRJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="session_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="session_2" />
+      <option name="MAIN_CLASS_NAME" value="session_2.jenkins_demo" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jenkins_demo.publicvoidtestgooglrsearch" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumPRJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="session_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="session_2" />
+      <option name="MAIN_CLASS_NAME" value="session_2.jenkins_demo" />
+      <option name="METHOD_NAME" value="publicvoidtestgooglrsearch" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.jenkins_demo.publicvoidtestgooglrsearch" />
+        <item itemvalue="TestNG.jenkins_demo" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -80,9 +122,18 @@
       <option name="presentableId" value="Default" />
       <updated>1578946292501</updated>
     </task>
+    <task id="LOCAL-00001" summary="first version.">
+      <created>1578948651080</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578948651081</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first version." />
     <option name="LAST_COMMIT_MESSAGE" value="first version." />
   </component>
@@ -91,14 +142,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578948377165" />
-    <state x="594" y="114" key="CommitChangelistDialog2" timestamp="1578948621492">
+    <state x="594" y="114" key="CommitChangelistDialog2" timestamp="1578948647477">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="594" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578948621492" />
+    <state x="594" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578948647477" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1578948344850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578948344850" />
+    <state width="1877" height="383" key="GridCell.Tab.0.bottom" timestamp="1578974146729">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="383" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578974146729" />
+    <state width="1877" height="383" key="GridCell.Tab.0.center" timestamp="1578974146729">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="383" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578974146729" />
+    <state width="1877" height="383" key="GridCell.Tab.0.left" timestamp="1578974146728">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="383" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578974146728" />
+    <state width="1877" height="383" key="GridCell.Tab.0.right" timestamp="1578974146729">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="383" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578974146729" />
     <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1578946682343">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -107,5 +174,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578948465006" />
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2" timestamp="1578948799917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578948799917" />
   </component>
 </project>
