@@ -4,6 +4,7 @@
     <list default="true" id="45dc8a2f-98ae-4b97-9eff-ff1d65615597" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/session_2/jenkins_demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/session_2/jenkins_demo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578975255434</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first version.">
+      <created>1578976557428</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578976557428</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -155,10 +163,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578948377165" />
-    <state x="594" y="114" key="CommitChangelistDialog2" timestamp="1578975253514">
+    <state x="594" y="114" key="CommitChangelistDialog2" timestamp="1578976555535">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="594" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578975253514" />
+    <state x="594" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578976555535" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1578948344850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -187,9 +195,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578948465006" />
-    <state x="552" y="241" key="Vcs.Push.Dialog.v2" timestamp="1578975258427">
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2" timestamp="1578976559339">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578975258427" />
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578976559339" />
   </component>
 </project>
